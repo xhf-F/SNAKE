@@ -6,8 +6,7 @@
 
 int main() {
 	
-	//draw();
-	//std::cout << gameover;
+
 	Setup();
 	while (!gameover) {
 		
