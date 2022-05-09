@@ -213,7 +213,7 @@ void Logic() {
 		//		if (tailX[k] == fruitX && tailY[k] == fruitY) {fruitsnake = true; fruitX, fruitY = renew();}
 		//		else {fruitsnake = false;}
 		//	}
-		//}
+		//} //this trys to fix the bug that the new fruit appears within the snake body.
 		
 	
 	}
