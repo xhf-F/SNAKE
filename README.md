@@ -9,4 +9,9 @@
     - RIGHT:  l/L
    - Start: press any key mentioned above
    - Exit: press q/Q/e/E
+   - Gameover: The head hits your tails.
 - You can directly download/run this [executable program](https://github.com/xhf-F/Simple_Game--SNAKE/raw/main/Simple_SNAKE).
+- Brief exaplanation about the codes
+  - Header: There are four basic functions to make this game run. They are ```Setup()``` for initializarion, ```Draw()``` for printing the "wall", "fruit" and "snake", ```Input()``` for inputting control commands, and ```Logic()``` for judgments on movings and scores in the ```.H``` file. And another one ```renew()``` just does for updating the position of fruits. 
+  - Source: In the ```.cpp``` file
+ - Makefile
