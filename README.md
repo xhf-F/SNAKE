@@ -14,5 +14,9 @@
 - Brief exaplanation about the codes
   - Header: There are four basic functions to make this game run. They are ```Setup()``` for initializarion, ```Draw()``` for printing the "wall", "fruit" and "snake", ```Input()``` for inputting control commands, and ```Logic()``` for judgments on movings and scores in the ```.H``` file. And another one ```renew()``` just does for updating the position of fruits. 
   - Source: In the ```.cpp``` file, first it needs to setup and then goes into a ```while``` loop implementing other three basic functions in it. For a comfortable display, it includes a ```Linux```'s ```sleep()``` following the ```Draw()```. This is a testing file to some extent. 
- - Makefile
-  - Just simply apply ```$ make``` in the command line then it will generate ```.o``` files and the executable program.
+- Makefile
+  - Just simply apply: 
+  ```
+  $ make
+  ``` 
+  - in the command line then it will generate ```.o``` files and the executable program.
