@@ -1,6 +1,6 @@
 # SNAKE
 - A [SNAKE](https://github.com/xhf-F/Simple_Game--SNAKE) game written in c++ for fun:)
-- This is a simple SNAKE game. You will start from the center with the snake head - "0". Then if you successfully get one fruit - "\*", your tail - "o" will add one following the head. Next, if you get one fruit again, your new one tail will be added from the end.
+- This is a simple SNAKE game. You will start from the center with the snake head - "0". Then if you successfully get one fruit - "\*", your tail - "o" will add one following the head. Next, if you get one fruit again, your new one tail will be added from the end. [(What is a SNAKE game?)](https://en.wikipedia.org/wiki/Snake_(video_game_genre))
 - Rule: 
   - Control key:
     - UP   :  i/I
