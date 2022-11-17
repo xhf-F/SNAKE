@@ -20,3 +20,7 @@
   $ make
   ``` 
   - in the command line then it will generate ```.o``` files and the executable program.
+- code references 
+  - [part 1](https://www.youtube.com/watch?v=E_-lMZDi7Uw)
+  - [part 2](https://www.youtube.com/watch?v=W1e5wO7XR2w)
+  - [part 3](https://www.youtube.com/watch?v=PSoLD9mVXTA)
